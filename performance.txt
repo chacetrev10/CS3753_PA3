@@ -1,0 +1,45 @@
+Num requester threads: 1
+Num resolver threads: 1
+Total runtime: 47103.000000
+Thread 1885 serviced 103 files
+
+Num requester threads: 1
+Num resolver threads: 3
+Total runtime: 37831.000000
+Thread 1902 serviced 103 files
+
+Num requester threads: 3
+Num resolver threads: 1
+Total runtime: 38216.000000
+Thread 1923 serviced 40 files
+Thread 1921 serviced 43 files
+Thread 1922 serviced 20 files
+
+Num requester threads: 3
+Num resolver threads: 3
+Total runtime: 36793.000000
+Thread 2072 serviced 20 files
+Thread 2073 serviced 63 files
+Thread 2071 serviced 20 files
+
+Num requester threads: 5
+Num resolver threads: 5
+Total runtime: 40497.000000
+Thread 2104 serviced 20 files
+Thread 2105 serviced 20 files
+Thread 2103 serviced 23 files
+Thread 2107 serviced 20 files
+Thread 2106 serviced 20 files
+
+
+Num requester threads: 8
+Num resolver threads: 5
+Total runtime: 45790.000000
+Thread 2514 serviced 0 files
+Thread 2519 serviced 0 files
+Thread 2520 serviced 0 files
+Thread 2513 serviced 23 files
+Thread 2515 serviced 20 files
+Thread 2518 serviced 20 files
+Thread 2516 serviced 20 files
+Thread 2517 serviced 20 files
